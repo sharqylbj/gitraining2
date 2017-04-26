@@ -2,7 +2,8 @@ def introduce():
     print("Hello!\nI'm gittie!")
 
 
-introduce()
+def joke():
+    print("Joke. (You should smile)!")
 
 
 def add():
@@ -12,4 +13,8 @@ def add():
     print(końskadupa)
 
 
+introduce()
+
 add()
+
+joke()
