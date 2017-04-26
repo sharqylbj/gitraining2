@@ -1,5 +1,5 @@
 def introduce():
-    print("Hello!\nI'm gittie!")
+    print("Hello!\nI'm new blazej made gittie!")
 
 
 def joke():
