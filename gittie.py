@@ -14,8 +14,14 @@ def add():
     print(końskadupa)
 
 
+def shout():
+    print("O Kurwa!")
+
+
 introduce()
 
 add()
 
 joke()
+
+shout()
