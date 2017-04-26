@@ -15,7 +15,7 @@ def add():
 
 
 def shout():
-    print("O Kurwa!")
+    print("AAAAAAAAAAAAAAAAAAAAAAAAAA")
 
 
 introduce()
