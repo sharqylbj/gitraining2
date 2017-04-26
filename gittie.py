@@ -3,3 +3,13 @@ def introduce():
 
 
 introduce()
+
+
+def add():
+    końskadupa = []
+    for i in range(len("dupa")):
+        końskadupa.append(i)
+    print(końskadupa)
+
+
+add()
